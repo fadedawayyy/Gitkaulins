@@ -6,6 +6,7 @@ public class Programma {
 	
 
 	public static void main(String[] args) {
+		System.out.println("Esi sveicinats mana metama kaulina programma!");
 		int skaitlis, reizes;
 		Random rand = new Random();
 		Scanner scan = new Scanner(System.in);
